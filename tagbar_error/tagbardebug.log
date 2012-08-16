@@ -1,0 +1,51 @@
+21:01:11: ToggleWindow called
+21:01:11: OpenWindow called with flags: ''
+21:01:11: Checking for Exuberant Ctags
+21:01:11: EscapeCtagsCmd called
+21:01:11: ctags_bin: ctags
+21:01:11: ctags_args: --version
+21:01:11: Escaped ctags command: "ctags" --version 
+21:01:11: Checking Exuberant Ctags version
+21:01:11: Getting filetypes sypported by Exuberant Ctags
+21:01:11: EscapeCtagsCmd called
+21:01:11: ctags_bin: ctags
+21:01:11: ctags_args: --list-languages
+21:01:11: Escaped ctags command: "ctags" --list-languages 
+21:01:11: Initializing types
+21:01:12: Initializing user types
+21:01:12: Creating autocommands
+21:01:12: AutoUpdate called on d:\vim\tagbar.vim
+21:01:12: Vim filetype: 'vim', sanitized filetype: 'vim'
+21:01:12: Checking if file is valid: d:\vim\tagbar.vim
+21:01:12: New file, processing d:\vim\tagbar.vim
+21:01:12: ProcessFile called on d:\vim\tagbar.vim
+21:01:12: Checking if file is valid: d:\vim\tagbar.vim
+21:01:12: ExecuteCtagsOnFile called on c:\tmp\VIA8D20.tmp.vim
+21:01:12: EscapeCtagsCmd called
+21:01:12: ctags_bin: ctags
+21:01:12: ctags_args:  -f -  --format=2  --excmd=pattern  --fields=nksSa  --extra=  --sort=yes  --language-force=vim --vim-kinds=nvfacm 
+21:01:12: Escaped ctags command: "ctags"  -f -  --format=2  --excmd=pattern  --fields=nksSa  --extra=  --sort=yes  --language-force=vim --vim-kinds=nvfacm  "c:\tmp\VIA8D20.tmp.vim"
+       21:01:12: Command output:
+21:01:12: ctags: Warning: Unsupported parameter 'n' for --vim-kinds option
+ctags: cannot open temporary file : No such file or directory
+
+                                                             21:01:12: Ctags error when processing file
+21:01:12: fileinfo empty after processing d:\vim\tagbar.vim
+21:01:12: InitWindow called with autoclose: 0
+21:01:12: AutoUpdate called on d:\vim\__Tagbar__
+21:01:12: Tagbar window not open or in Tagbar window
+21:01:12: Mapping keys
+21:01:12: InitWindow finished
+21:01:12: AutoUpdate called on d:\vim\tagbar.vim
+21:01:12: Vim filetype: 'vim', sanitized filetype: 'vim'
+21:01:12: Checking if file is valid: d:\vim\tagbar.vim
+21:01:12: fileinfo empty after processing d:\vim\tagbar.vim
+21:01:12: Executing without autocommands: wincmd p
+21:01:12: OpenWindow finished
+21:01:12: ToggleWindow finished
+21:01:19: AutoUpdate called on d:\vim\tagbar.vim
+21:01:19: Vim filetype: 'vim', sanitized filetype: 'vim'
+21:01:19: Checking if file is valid: d:\vim\tagbar.vim
+21:01:19: fileinfo empty after processing d:\vim\tagbar.vim
+21:01:28: AutoUpdate called on d:\vim\__Tagbar__
+21:01:28: Tagbar window not open or in Tagbar window
